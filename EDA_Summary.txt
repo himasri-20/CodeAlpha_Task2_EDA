@@ -1,6 +1,3 @@
-# CodeAlpha Task 2: Exploratory Data Analysis (EDA)
-# Dataset: Titanic (You can replace with any dataset)
-# Author: Your Name
 
 import pandas as pd
 import numpy as np
